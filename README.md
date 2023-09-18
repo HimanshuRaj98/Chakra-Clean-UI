@@ -1,7 +1,3 @@
-Certainly, here's the GitHub repository description in Markdown format:
-
-markdown
-
 ## Chakra UI for React Projects
 
 This repository provides a starting point for building modern, responsive, and visually appealing web applications using Chakra UI, a popular React component library. Chakra UI offers a rich set of pre-designed components, making it easier to create beautiful user interfaces with less effort.
